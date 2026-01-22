@@ -46,9 +46,7 @@ Familiar with multiple programming languages and eager to learn more.
 
 ## 📬 Contact Me
 - **Email:** [linanwanttodo@gmail.com](linanwanttodo@gmail.com)  
-- **TikTok:** [。。。](后期添加)
-- **抖音(douyin):** [。。。](后期添加)
-- **Instagram:** [。。。](后期添加)
+
 
 ---
 
