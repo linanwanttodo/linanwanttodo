@@ -34,11 +34,6 @@ Familiar with multiple programming languages and eager to learn more.
 
 ---
 
-## 🚀 My Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linanwanttodo&theme=tokyonight&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=linanwanttodo&color=blueviolet&style=flat-square)
-
----
 
 
 
