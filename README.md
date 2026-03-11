@@ -12,7 +12,7 @@ Familiar with multiple programming languages and eager to learn more.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,ts,vite" />
   </a>
 </p>
 
