@@ -28,17 +28,6 @@ Familiar with multiple programming languages and eager to learn more.
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linanwanttodo&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linanwanttodo&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-
-
-
-
-
 ## Contact Me
 - **Email:** [linanwanttodo@gmail.com](linanwanttodo@gmail.com)  
 
