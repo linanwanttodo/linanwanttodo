@@ -1,3 +1,5 @@
+<img src="wave-header.svg" width="100%" />
+
 # 👋 Hi, I'm Lin
 
 **Developer | Programmer | Tech Enthusiast**  
@@ -45,3 +47,5 @@ Familiar with multiple programming languages and eager to learn more.
 ---
 
 ⭐ *Feel free to fork, star, or collaborate on any of my repositories!*
+
+<img src="wave-footer.svg" width="100%" />
