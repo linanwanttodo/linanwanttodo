@@ -22,7 +22,7 @@ Familiar with multiple programming languages and eager to learn more.
   <img src=".github/skills/Vite-Light.svg" height="48" />
 </p>
 
-### Backend / Programming
+### Backend
 
 <p align="center">
   <img src=".github/skills/Java-Light.svg" height="48" />
