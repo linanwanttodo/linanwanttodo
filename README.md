@@ -14,13 +14,13 @@ Familiar with multiple programming languages and eager to learn more.
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/HTML.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CSS.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/React-Light.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/VueJS-Light.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Vite-Light.svg" height="48" />
+    <img src=".github/skills/HTML.svg" height="48" />
+    <img src=".github/skills/CSS.svg" height="48" />
+    <img src=".github/skills/JavaScript.svg" height="48" />
+    <img src=".github/skills/React-Light.svg" height="48" />
+    <img src=".github/skills/VueJS-Light.svg" height="48" />
+    <img src=".github/skills/TypeScript.svg" height="48" />
+    <img src=".github/skills/Vite-Light.svg" height="48" />
   </a>
 </p>
 
@@ -28,13 +28,13 @@ Familiar with multiple programming languages and eager to learn more.
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Light.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Kotlin-Light.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Light.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/C.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Rust.svg" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Light.svg" height="48" />
+    <img src=".github/skills/Java-Light.svg" height="48" />
+    <img src=".github/skills/Kotlin-Light.svg" height="48" />
+    <img src=".github/skills/Python-Light.svg" height="48" />
+    <img src=".github/skills/C.svg" height="48" />
+    <img src=".github/skills/CPP.svg" height="48" />
+    <img src=".github/skills/Rust.svg" height="48" />
+    <img src=".github/skills/MySQL-Light.svg" height="48" />
   </a>
 </p>
 
