@@ -1,4 +1,4 @@
-<img src="wave-header.svg" width="100%" />
+<img src=".github/wave-header.svg" width="100%" />
 
 # 👋 Hi, I'm Lin
 
@@ -44,4 +44,4 @@ Familiar with multiple programming languages and eager to learn more.
 
 ⭐ *Feel free to fork, star, or collaborate on any of my repositories!*
 
-<img src="wave-footer.svg" width="100%" />
+<img src=".github/wave-footer.svg" width="100%" />
